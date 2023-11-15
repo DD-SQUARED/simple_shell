@@ -3,6 +3,7 @@
 void first(void) __attribute__ ((constructor));
 
 /**
+ * first - prints two sentences using printf
  * sentence - prints a sentence using printf
  */
 void first(void)
